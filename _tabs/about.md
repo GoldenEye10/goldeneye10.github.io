@@ -28,8 +28,10 @@
 ## Projects
 
 ### Blue Team Labs Online (BTLO)
-- Completed labs covering log analysis, digital forensics, network defense, and malware analysis.
-- Gained hands-on experience with SIEM solutions, Wireshark, and Volatility.
+-Completed various labs and challenges that covered topics such as log analysis, digital forensics, network defense,
+and malware analysis, enhancing technical proficiency and analytical skills.
+-Utilized tools and technologies such as [SIEM solutions, Wireshark, Volatility, etc.], gaining practical experience in
+their application for cybersecurity defense.
 
 ### Network Traffic Visualizer
 - Developed a tool integrating Wireshark, Python, and Google Maps for visualizing network traffic.
