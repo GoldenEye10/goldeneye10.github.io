@@ -64,3 +64,5 @@ their application for cybersecurity defense.
 ---
 
 This overview highlights my education, projects, certifications, and technical skills, reflecting my dedication to continuous learning and practical application in computer science and cybersecurity.
+
+{: .prompt-tip }
