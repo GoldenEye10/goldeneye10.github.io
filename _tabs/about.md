@@ -1,25 +1,74 @@
-# About
+---
+title: About
+icon: fas fa-info-circle
+order: 4
+---
 
-Welcome to our page! Here, we provide detailed information about our project and its goals.
+You can download our project overview in PDF format by clicking the button below:
 
-## Project Goals
+<a href="../assets/lib/jan_18_2025.pdf" class="btn btn-primary" download>Download CV </a>
 
-- **Goal 1**: Provide accurate and up-to-date information.
-- **Goal 2**: Enhance user experience through a responsive and intuitive design.
-- **Goal 3**: Foster a community of like-minded individuals who share an interest in our project's subject matter.
+**Contact Information:**
+- **Phone**: 250-879-1573
+- **Email**: prabinshrestha10@gmail.com
+- **LinkedIn**: [@prabinshrestha](https://linkedin.com/in/prabinshrestha)
+- **GitHub**: [@GoldenEye10](https://github.com/GoldenEye10)
 
-## Our Team
+## Education
 
-Our team consists of professionals with diverse backgrounds and a shared passion for innovation.
+**Thompson Rivers University** - Kamloops, BC  
+*B.S. in Computer Science* (Expected Graduation: December 2024)
 
-### Members
+### Relevant Coursework:
+- Database System
+- Calculus
+- Operating Systems
+- Data Structure and Algorithms
+- Networking
+- Linear Algebra
+- Advanced Web Development
+- Cryptography
+- Computer Network Security
+- Artificial Intelligence
+- Quantum Mechanics
+- Prof/Ethical Issues in Computer Science
 
-- **Alice Johnson**: Project Manager
-- **Bob Smith**: Lead Developer
-- **Charlie Brown**: UX/UI Designer
+## Projects
 
-## Contact Us
+### Blue Team Labs Online (BTLO)
+- Completed labs covering log analysis, digital forensics, network defense, and malware analysis.
+- Gained hands-on experience with SIEM solutions, Wireshark, and Volatility.
 
-Feel free to reach out through our contact page for any inquiries or further information.
+### Network Traffic Visualizer
+- Developed a tool integrating Wireshark, Python, and Google Maps for visualizing network traffic.
+- Implemented features for IP name display, flagging, and real-time anomaly detection using color-coded traffic lines.
+
+### Xola Booking Automater App
+- Built a Node.js application to process Xola webhook data, integrated with PostgreSQL.
+- Ensured compatibility with Saltcorn for frontend integration and implemented robust error handling.
+
+## Certifications
+- **Blue Team Labs Level 1 (BTL1)**
+- **Network Defence Essentials (NDE)**
+- **Digital Forensics Essentials (DFE)**
+
+## Experience
+
+**Tech Specialist**  
+*London Drugs, Vancouver, BC* (May 2023 - Present)
+- Advised clients on products across various departments.
+- Provided technical support, including data transfer and troubleshooting.
+
+## Technical Skills
+
+- **Security Tools & Concepts**: OWASP, API Security, IDS/IPS, VPNs, Splunk, Wireshark, Autopsy
+- **Programming Languages**: Python, Java, JavaScript, Ruby, NodeJS, C, PowerShell
+- **Penetration Testing Tools**: Nmap, BurpSuite, Nessus, Mimikatz
+- **Networking**: TCP/IP, Firewall Management, Network Security Monitoring, Packet Analysis
+- **Other Skills**: Linux, Office 365, Git
+
+---
+
+This overview highlights my education, projects, certifications, and technical skills, reflecting my dedication to continuous learning and practical application in computer science and cybersecurity.
 
 {: .prompt-tip }
