@@ -6,7 +6,7 @@ order: 4
 
 You can download our project overview in PDF format by clicking the button below:
 
-<a href="../assets/lib/jan_18_2025.pdf" class="btn btn-primary" download>Download CV </a>
+<a href="../assets/pdf/jan_18_2025.pdf" class="btn btn-primary" download>Download CV </a>
 
 **Contact Information:**
 - **Phone**: 250-879-1573
