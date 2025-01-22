@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-You can download our project overview in PDF format by clicking the button below:
+You can download copy of my resume in PDF format by clicking the button below:
 
 <a href="../assets/pdf/jan_18_2025.pdf" class="btn btn-primary" download>Download CV </a>
 
