@@ -6,7 +6,7 @@ order: 4
 
 You can download copy of my resume in PDF format by clicking the button below:
 
-<a href="../assets/pdf/jan_18_2025.pdf" class="btn btn-primary" download>Download CV </a>
+<a href="../assets/pdf/March26.pdf" class="btn btn-primary" download>Download CV </a>
 
 **Contact Information:**
 - **Phone**: 250-879-1573
@@ -20,18 +20,23 @@ You can download copy of my resume in PDF format by clicking the button below:
 *B.S. in Computer Science* (Graduation: December 2024)
 
 ### Relevant Coursework:
-- Database System
+- Human Computer Interaction
 - Calculus
 - Operating Systems
 - Data Structure and Algorithms
 - Networking
 - Linear Algebra
+- Discrete maths
 - Advanced Web Development
 - Cryptography
+- Computer Networks
 - Computer Network Security
 - Artificial Intelligence
 - Quantum Mechanics
 - Prof/Ethical Issues in Computer Science
+- Advanced Database System
+- Statistics
+- Advanced Mobile App Development
 
 ## Projects
 
@@ -59,6 +64,7 @@ display.
 - Technologies: Node.js, Express.js, PostgreSQL, Saltcorn, Ngrok, Docker, Github.
 
 ## Certifications
+- **Security+ Syo-701 (Comptia)**
 - **Blue Team Labs Level 1 (BTL1)**
 - **Network Defence Essentials (NDE)**
 - **Digital Forensics Essentials (DFE)**
@@ -78,11 +84,11 @@ password resets, mobile device setup, and account setup over phone and in store.
 
 ## Technical Skills
 
-- **Security Tools & Concepts**: OWASP, API Security, IDS/IPS, VPNs, Splunk, Wireshark, Autopsy
+- **Security Tools & Concepts**: OWASP, API Security, IDS/IPS, VPNs, Splunk, Wireshark, Autopsy, ISO 27001
 - **Programming Languages**: Python, Java, JavaScript, Ruby, NodeJS, C, PowerShell
 - **Penetration Testing Tools**: Nmap, BurpSuite, Nessus, Mimikatz
 - **Networking**: TCP/IP, Firewall Management, Network Security Monitoring, Packet Analysis
-- **Other Skills**: Linux, Office 365, Git
+- **Other Skills**: Linux, Office 365, Git, Jira, Azure, Aws
 
 ---
 
