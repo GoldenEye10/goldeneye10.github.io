@@ -3,6 +3,10 @@ title: CERTIFICATION
 icon: fas fa-info-circle
 order: 4
 ---
+## 1. [Security+ - Syo 701 (COMPTIA)](https://www.credly.com/earner/earned/badge/c895c998-925e-47e2-9261-597fa1eae7d9) 
+
+
+![Desktop View](../assets/img/favicon/certificatioin/sec+.png){: width="972" height="589" }
 
 ## 1. [BLUE TEAM LEVEL 1 (SECURITY BLUE TEAM)](https://www.credly.com/badges/5a5c60fa-431c-435c-90ad-f17a53f4c029) 
 
