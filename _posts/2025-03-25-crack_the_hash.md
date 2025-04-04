@@ -19,6 +19,7 @@ This is a walk-through for cracking different hashes using Hashcat on macOS.
 - Hashcat
 - Online Hash Type Identifier: [hashes.com](https://hashes.com/en/tools/hash_identifier) -To identify the Hash Type
 - Hash Mode Lookup: [Hashcat Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) - To Identify the hash mode to be used for the given hash
+- rockyou.txt from github
 
 ## Installation of Hashcat:
 1. Open terminal on macOS.
