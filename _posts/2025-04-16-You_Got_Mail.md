@@ -108,8 +108,6 @@ rlwrap nc -lvnp 443
 
 ---
 
-Answer: THM{l1v1n_7h3_br1ck_l1f3}
-
 
 ## Task 2: Q2 Privilege Escalation
 ### What is the password of the user wrohit?
@@ -135,8 +133,6 @@ We can then use CrackStation to crack the hash and recover the password for the 
 
 ![Desktop View](../assets/img/favicon/writeup/thm/YGM/8.png){: width="972" height="589" }
 
-Answer: superstar
-
 ---
 
 ## Q3: What is the password to access the hMailServer Administrator Dashboard?
@@ -155,17 +151,7 @@ Once again, using CrackStation to crack the hash, we can retrieve the password a
 
 ![Desktop View](../assets/img/favicon/writeup/thm/YGM/9.png){: width="972" height="589" }
 
-Answer: password
 
 ---
 
-## Summary of Answers
-
-| Question                                      | Answer                         |
-|----------------------------------------------|--------------------------------|
-| What is the user flag?                        | `THM{l1v1n_7h3_br1ck_l1f3}`    |
-| What is the password of user wrohit?          | `superstar`                    |
-| hMailServer Administrator Dashboard Password  | `password`                     |
-
----
 
