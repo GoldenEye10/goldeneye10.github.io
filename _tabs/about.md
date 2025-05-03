@@ -17,7 +17,7 @@ You can download copy of my resume in PDF format by clicking the button below:
 ## Education
 
 **Thompson Rivers University** - Kamloops, BC  
-*B.S. in Computer Science* (Graduation: December 2024)
+*B.S. in Computer Science* (Graduation: January 2025)
 
 ### Relevant Coursework:
 - Human Computer Interaction
@@ -44,6 +44,10 @@ You can download copy of my resume in PDF format by clicking the button below:
 - Completed labs covering log analysis, digital forensics, network defense, and malware analysis.
 - Gained hands-on experience with SIEM solutions, Wireshark, and Volatility.
 
+### Try Hack ME
+- Completed  and challenges covering log analysis, digital forensics,Phising, Alert Triage, SOC Simulator and malware analysis.
+- Gained hands-on experience with SIEM solutions, Wireshark, Volatility, Splunk, nmap, metasploit, hydra, cewl.
+
 ### Network Traffic Visualizer
 - Developed a comprehensive tool integrating Wireshark for packet capture, Python for data processing, and Google
 Maps for visualization
@@ -66,6 +70,7 @@ display.
 ## Certifications
 - **Security+ Syo-701 (Comptia)**
 - **Blue Team Labs Level 1 (BTL1)**
+- **Security Analyst Level 1 (SAL1)**
 - **Network Defence Essentials (NDE)**
 - **Digital Forensics Essentials (DFE)**
 
@@ -84,9 +89,9 @@ password resets, mobile device setup, and account setup over phone and in store.
 
 ## Technical Skills
 
-- **Security Tools & Concepts**: OWASP, API Security, IDS/IPS, VPNs, Splunk, Wireshark, Autopsy, ISO 27001
+- **Security Tools & Concepts**: OWASP, API Security, IDS/IPS, VPNs, Splunk, Wireshark, Autopsy, ISO 27001, AZ-900
 - **Programming Languages**: Python, Java, JavaScript, Ruby, NodeJS, C, PowerShell
-- **Penetration Testing Tools**: Nmap, BurpSuite, Nessus, Mimikatz
+- **Penetration Testing Tools**: Nmap, BurpSuite, Nessus, Mimikatz, cewl, hydra, Metasploit
 - **Networking**: TCP/IP, Firewall Management, Network Security Monitoring, Packet Analysis
 - **Other Skills**: Linux, Office 365, Git, Jira, Azure, Aws
 
