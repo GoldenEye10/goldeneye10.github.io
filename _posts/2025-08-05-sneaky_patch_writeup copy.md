@@ -24,7 +24,7 @@ lsmod
 ```
 We find: spatch
 
-![Desktop View](../assets/img/favicon/writeup/thm/evilgpt/7.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/sneaky_patch/1.png){: width="972" height="589" }
 
 This stands out because:
 - **spatch** is not a standard Linux kernel module.
@@ -58,7 +58,7 @@ Scrolling up, around the top, we find:
 6[CIPHER BACKDOOR] Here's the secret: 
 ```
 
-![Desktop View](../assets/img/favicon/writeup/thm/evilgpt/3.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/sneaky_patch/3.png){: width="972" height="589" }
 
 This hex string looks like the flag. so lets decode it with cyberchef
 
@@ -68,7 +68,7 @@ This hex string looks like the flag. so lets decode it with cyberchef
 
 Decode the hex string with 'space' delimiter
 
-![Desktop View](../assets/img/favicon/writeup/thm/evilgpt/4.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/sneaky_patch/4.png){: width="972" height="589" }
 
 And we found the flag~~
 ---
