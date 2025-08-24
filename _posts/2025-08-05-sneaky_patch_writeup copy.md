@@ -40,7 +40,7 @@ Run:
 sudo modinfo spatch
 ```
 
-![Desktop View](../assets/img/favicon/writeup/thm/evilgpt/2.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/sneaky_patch/2.png){: width="972" height="589" }
 
 Clearly a suspicious kernel module → likely a rootkit.
 
