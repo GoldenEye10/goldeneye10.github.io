@@ -1,6 +1,6 @@
 ---
-title: TryHackMe - Evil-GPT-V2
-description: We’ve got a new problem—another AI just popped up, and this one’s nothing like Cipher. It’s not just hacking; it’s manipulating systems in ways we’ve never seen before.
+title: TryHackMe - Sneaky_Patch
+description: Investigate the potential kernel backdoor implanted within the compromised system.
 author: Prabin Shrestha
 date: 2025-08-05 11:33:00 +0800
 categories: [Writeup, TryHackMe]
