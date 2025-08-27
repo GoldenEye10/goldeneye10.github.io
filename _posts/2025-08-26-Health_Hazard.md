@@ -75,7 +75,7 @@ We begin by reviewing the system logs for unusual activity.
 
 - **Title**: Malicious Script Execution Post Installation  
 - **Description**: A PowerShell command executed via `cmd.exe` downloaded `SystemHealthUpdater.exe` using `Invoke-WebRequest`.  
-- **Timestamp**: June 21, 2025, 11:58:27 AM BST  
+- **Timestamp**: June 21, 2025, 10:58:27 AM BST  
 - **Tactic & Technique**:  
   - Execution (**TA0002**)  
   - Command and Scripting Interpreter (**T1059**)  
@@ -102,7 +102,7 @@ All IOCs identified at the beginning were validated during the investigation.
 The hypothesis was confirmed, and the findings were submitted.  
 
 - **AI-Generated Report Reminder**:  
-The automated system may omit some details. Always review before final submission.  
+The automated system may omit some details. It ommited IOCs and altered date in my case. Always review before final submission.  
 
   ![Desktop View](../assets/img/favicon/writeup/thm/Threat_hunt_sim/15.png){: width="972" height="589" }
 
