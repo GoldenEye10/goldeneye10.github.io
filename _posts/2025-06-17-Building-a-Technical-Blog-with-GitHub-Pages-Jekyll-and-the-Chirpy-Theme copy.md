@@ -1,10 +1,16 @@
 ---
-title: Building a Technical Blog with GitHub Pages, Jekyll, and the Chirpy Theme
-date: 2025-06-17 02:10:00 -0500
-categories: [Blog]
-tags: [github pages, jekyll, chirpy, static site, personal blog]
+title: Chirpy jekyll website
+description:  Building website with cirpy jekyll
+author: Prabin Shrestha
+date: 2025-09-27 11:33:00 +0800
+categories: [Writeup, TryHackMe]
+tags: [writeup]
+pin: false
+math: true
+mermaid: true
 image:
-  path: /assets/img/posts/2025-06-17-Building-a-Technical-Blog-with-GitHub-Pages-Jekyll-and-the-Chirpy-Theme.png
+  path: ../assets/img/favicon/writeup/thm/malbuster/t.png
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
 ---
 
 Creating a personal blog to showcase your technical content doesn’t have to be complicated. With tools like **GitHub Pages**, the **Jekyll CMS**, and the feature-rich **Chirpy theme**, you can build and deploy a fast, elegant blog site — with zero hosting cost.
