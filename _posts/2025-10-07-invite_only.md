@@ -2,15 +2,13 @@
 title: Invite Only
 description:  Try Hack me Invite Only challenge
 author: Prabin Shrestha
-date: 2025-10-08 11:33:00 +0800
+date: 2025-10-07 11:33:00 +0800
 categories: [Writeup, TryHackMe]
 tags: [writeup]
 pin: false
 math: true
 mermaid: true
-image:
-  path: ../assets/img/favicon/writeup/thm/invite_only/8.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+
 ---
 
 ## Scenario Overview
@@ -32,7 +30,7 @@ Your task was to use **TryDetectThis2.0** to gather, correlate, and document int
 
  - Lookup the hash we are given in the tool
 
- ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/1.png)
+ ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/1.png){: width="972" height="589" }
 
 ---
 
@@ -45,13 +43,13 @@ Just below the file name we can see file type as well
 *(List the names chronologically, using a comma as a separator.)*
  - Go to relation 
 
- ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/2.png)
+ ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/2.png){: width="972" height="589" }
 
 ---
 
 ### **Q4: What is the name of the file being dropped?**
 
- ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/3.png)
+ ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/3.png){: width="972" height="589" }
 
 ---
 
@@ -63,7 +61,7 @@ Just below the file name we can see file type as well
  - Lookup this hash
  - Go to relation and you can see dropped files
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/4.png)
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/4.png){: width="972" height="589" }
 
 ---
 
@@ -74,7 +72,7 @@ Just below the file name we can see file type as well
  - Lookup the given IP: 101.99.76.120
  - Go to community
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png)
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png){: width="972" height="589" }
 
 ---
 
@@ -82,23 +80,23 @@ Just below the file name we can see file type as well
 
 - You can find the title on the community as well
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png)
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png){: width="972" height="589" }
 
 ---
 
 ### **Q8: Which tool did the attackers use to steal cookies from the Google Chrome browser?**
 
- - Lookup the article with the title → you’ll find many articles
+ - Lookup the article with the title → you ll find many article
  - Use cmd/ctrl + f to lookup the keyword ‘tool’
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/6.png)
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/6.png){: width="972" height="589" }
 
 ---
 
 ### **Q9: Which phishing technique did the attackers use?**
 - Look for the keyword ‘technique’
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/7.png)
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/7.png){: width="972" height="589" }
 
 ---
 
@@ -107,6 +105,7 @@ Just below the file name we can see file type as well
 **Answer:**  
 `Discord`
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/9.png)
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/9.png){: width="972" height="589" }
 
 ---
+
