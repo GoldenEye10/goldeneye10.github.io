@@ -2,7 +2,7 @@
 title: Invite Only
 description:  Try Hack me Invite Only challenge
 author: Prabin Shrestha
-date: 2025-10-07 11:33:00 +0800
+date: 2025-10-08 11:33:00 +0800
 categories: [Writeup, TryHackMe]
 tags: [writeup]
 pin: false
