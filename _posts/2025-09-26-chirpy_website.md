@@ -1,6 +1,6 @@
 ---
 title: Chirpy jekyll website
-description:  Building website with cirpy jekyll
+description:  Building website with chirpy jekyll
 author: Prabin Shrestha
 date: 2025-09-27 11:33:00 +0800
 categories: [Writeup, TryHackMe]
