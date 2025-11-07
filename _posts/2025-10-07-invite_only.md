@@ -23,6 +23,7 @@ Earlier today, an L1 analyst escalated two suspicious findings for further inves
 - **SHA256 Hash:** `5d0509f68a9b7c415a726be75a078180e3f02e59866f193b0a99eee8e39c874f`
 
 Your task was to use **TryDetectThis2.0** to gather, correlate, and document intelligence from these indicators.
+
 ---
 
 ## 🔍 Investigation Details
@@ -37,6 +38,7 @@ Your task was to use **TryDetectThis2.0** to gather, correlate, and document int
 
 ### **Q2: What is the file type associated with the flagged SHA256 hash?**
 Just below the file name we can see file type as well
+
 ---
 
 ### **Q3: What are the execution parents of the flagged hash?**  
@@ -44,11 +46,13 @@ Just below the file name we can see file type as well
  - Go to relation 
 
  ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/2.png){: width="972" height="589" }
+
 ---
 
 ### **Q4: What is the name of the file being dropped?**
 
  ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/3.png){: width="972" height="589" }
+
 ---
 
 ### **Q5: Research the second hash in Question 3 and list the four malicious dropped files in the order they appear (top to bottom).**
@@ -71,6 +75,7 @@ Just below the file name we can see file type as well
  - Go to community
 
 ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png){: width="972" height="589" }
+
 ---
 
 ### **Q7: What is the title of the original report where these flagged indicators are mentioned?**
@@ -78,6 +83,7 @@ Just below the file name we can see file type as well
 - You can find the title on the community as well
 
 ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png){: width="972" height="589" }
+
 ---
 
 ### **Q8: Which tool did the attackers use to steal cookies from the Google Chrome browser?**
@@ -86,12 +92,14 @@ Just below the file name we can see file type as well
  - Use cmd/ctrl + f to lookup the keyword ‘tool’
 
 ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/6.png){: width="972" height="589" }
+
 ---
 
 ### **Q9: Which phishing technique did the attackers use?**
 - Look for the keyword ‘technique’
 
 ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/7.png){: width="972" height="589" }
+
 ---
 
 ### **Q10: What is the name of the platform that was used to redirect a user to malicious servers?**
@@ -100,5 +108,6 @@ Just below the file name we can see file type as well
 `Discord`
 
 ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/9.png){: width="972" height="589" }
+
 ---
 
