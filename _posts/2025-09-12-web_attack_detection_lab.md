@@ -48,7 +48,7 @@ We are given `access.log` and `traffic.pcap` files to analyse and answer the que
 **Q:** What is the attacker’s User-Agent while performing the directory fuzz?  
 **A:** FFUF v2.1.0  
 
-  ![Desktop View](../assets/img/favicon/writeup/thm/web_attack_detection/1.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/web_attack_detection/1.png){: width="972" height="589" }
 
 **Q:** What is the name of the page on which the attacker performs a brute-force attack?  
 
