@@ -13,7 +13,7 @@ image:
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
 ---
 
-## 🧠 Scenario Overview
+## Scenario Overview
 
 You are an SOC Analyst at **TrySecureMe**, assisting an L3 analyst in an ongoing incident response.  
 Earlier today, an L1 analyst escalated two suspicious findings for further investigation.
