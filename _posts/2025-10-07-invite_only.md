@@ -26,13 +26,13 @@ Your task was to use **TryDetectThis2.0** to gather, correlate, and document int
 
 ---
 
-## 🔍 Investigation Details
+## Investigation Details
 
 ### **Q1: What is the name of the file identified with the flagged SHA256 hash?**
 
  - Lookup the hash we are given in the tool
 
- ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/1.png){: width="972" height="589" }
+ ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/1.png)
 
 ---
 
@@ -45,13 +45,13 @@ Just below the file name we can see file type as well
 *(List the names chronologically, using a comma as a separator.)*
  - Go to relation 
 
- ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/2.png){: width="972" height="589" }
+ ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/2.png)
 
 ---
 
 ### **Q4: What is the name of the file being dropped?**
 
- ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/3.png){: width="972" height="589" }
+ ![Desktop View](../assets/img/favicon/writeup/thm/invite_only/3.png)
 
 ---
 
@@ -63,7 +63,7 @@ Just below the file name we can see file type as well
  - Lookup this hash
  - Go to relation and you can see dropped files
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/4.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/4.png)
 
 ---
 
@@ -74,7 +74,7 @@ Just below the file name we can see file type as well
  - Lookup the given IP: 101.99.76.120
  - Go to community
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png)
 
 ---
 
@@ -82,23 +82,23 @@ Just below the file name we can see file type as well
 
 - You can find the title on the community as well
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/5.png)
 
 ---
 
 ### **Q8: Which tool did the attackers use to steal cookies from the Google Chrome browser?**
 
- - Lookup the article with the title → you ll find many article
+ - Lookup the article with the title → you’ll find many articles
  - Use cmd/ctrl + f to lookup the keyword ‘tool’
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/6.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/6.png)
 
 ---
 
 ### **Q9: Which phishing technique did the attackers use?**
 - Look for the keyword ‘technique’
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/7.png){: width="972" height="589" }
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/7.png)
 
 ---
 
@@ -107,8 +107,6 @@ Just below the file name we can see file type as well
 **Answer:**  
 `Discord`
 
-![Desktop View](../assets/img/favicon/writeup/thm/invite_only/9.png){: width="972" height="589" }
-
+![Desktop View](../assets/img/favicon/writeup/thm/invite_only/9.png)
 
 ---
-
