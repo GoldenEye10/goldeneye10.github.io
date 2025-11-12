@@ -2,7 +2,7 @@
 title: Introduction To SOAR
 description: Walkthrough and answers for the SOAR room (TryHackMe).
 author: "Prabin Shrestha"
-date: 2025-11-11 11:00:00 +00:00
+date: 2025-10-30 11:00:00 +00:00
 layout: post
 categories: [Writeup, TryHackMe, SOAR]
 tags: [soar, playbook, soc, automation]
