@@ -95,7 +95,7 @@ Once the correct date was selected, the system displayed the second flag.
 
 ![Desktop View](../assets/img/favicon/writeup/thm/seven_minutes/7.png){: width="972" height="589" }
 
-### 🏁 Task 2 Flag
+### Task 2 Flag
 ```
 THM{cctv_4ud1ts_4r3_fun}
 ```
@@ -103,10 +103,4 @@ THM{cctv_4ud1ts_4r3_fun}
 ---
 
 ### Summary
-
-| Task | Description | Flag |
-|------|-------------|------|
-| **1** | OSINT + endpoint discovery | `THM{n1c3_h31st_r3s34rch}` |
-| **2** | Weak credential audit + CCTV review | `THM{cctv_4ud1ts_4r3_fun}` |
-
 You successfully completed both parts of the challenge by combining source inspection, OSINT enumeration, weak password exploitation, and system analysis.
