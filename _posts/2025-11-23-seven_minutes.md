@@ -13,7 +13,7 @@ image:
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
 ---
 
-## ## Task 1 – Seine Incident 
+## Task 1 – Seine Incident 
 ###  What is the value of the flag?
 
 Something audacious unfolded beneath the glass pyramid.
@@ -24,7 +24,7 @@ You are the first analyst on call. Your mission is to reconstruct the details of
 
 Gather and verify information from public sources: museum pages, heritage archives, news coverage, social media, and open databases.
 
-### 🔍 Step 1: Inspect the Web Application
+### Step 1: Inspect the Web Application
 Using **Ctrl+U** (or **Cmd+U** on macOS), I viewed the page’s source code. Several API endpoints were listed:
 
 - `/api/questions`  
@@ -34,7 +34,7 @@ Using **Ctrl+U** (or **Cmd+U** on macOS), I viewed the page’s source code. Sev
 
 manually browse them.
 
-### 🔍 Step 2: Access `/api/success-message`
+### Step 2: Access `/api/success-message`
 Navigating directly to:
 
 ```
@@ -52,7 +52,7 @@ THM{n1c3_h31st_r3s34rch}
 
 ---
 
-# ## Task 2 – CCTV Credential Verification & Footage Review  
+## Task 2 – Louvre Protocol
 ###  What is the value of the flag?
 
 The challenge text mentions a news report about an earlier audit of the Louvre’s surveillance systems, highlighting:
