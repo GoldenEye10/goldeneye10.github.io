@@ -13,7 +13,8 @@ image:
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
 ---
 
-## Task 1 – Seine Incident 
+### Task 1 – Seine Incident 
+
 ###  What is the value of the flag?
 
 Something audacious unfolded beneath the glass pyramid.
@@ -52,7 +53,7 @@ THM{n1c3_h31st_r3s34rch}
 
 ---
 
-## Task 2 – Louvre Protocol
+### Task 2 – Louvre Protocol
 ###  What is the value of the flag?
 
 The challenge text mentions a news report about an earlier audit of the Louvre’s surveillance systems, highlighting:
@@ -101,7 +102,7 @@ THM{cctv_4ud1ts_4r3_fun}
 
 ---
 
-# 🎉 Summary
+### Summary
 
 | Task | Description | Flag |
 |------|-------------|------|
