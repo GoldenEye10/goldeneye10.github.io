@@ -1,6 +1,6 @@
 ---
 title: OWASP Top 10 2025
-description: OWASP Top 10 2025: Insecure Data Handling
+description: OWASP Top 10 2025 - Insecure Data Handling
 author: Prabin Shrestha
 date: 2025-11-16 11:33:00 +0800
 categories: [Writeup, TryHackMe, owasp]
@@ -65,8 +65,6 @@ http://MACHINE_IP:8001
 This web app demonstrates a note-sharing service that uses a weak, shared derived key. Follow the steps on the provided interface to decrypt all notes.
 
 ---
-
-
 
 ![Desktop View](../assets/img/favicon/writeup/thm/input_manipulation/2.png){: width="972" height="589" }
 
