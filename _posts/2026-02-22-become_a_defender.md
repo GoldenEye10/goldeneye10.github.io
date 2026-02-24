@@ -15,19 +15,25 @@ image:
 
 ###  Task 1
 - What Is Defensive Security?
+
 --> Defensive Security focuses on understanding what needs to be protected and implementing security measures to prevent, detect, and mitigate the impact of potential attacks. Defenders work to gain visibility into systems, identify weak points, and ensure that systems remain available and protected, aligning with the goals of confidentiality, integrity, and availability (the CIA triad) you learned about earlier in this module. The goal is to be prepared for incidents and respond when they occur.
 
 - What is the goal when a defender puts security controls in place to stop threats before any damage occurs?
+
 --> Prevention
 
 - What is the goal when a defender puts security controls in place to stop threats before any damage occurs?
+
 --> Analysis
 
 - What flag did you receive after successfully mapping your city infrastructure?
+
 --> THM{mapping_infrastructure!}
 
 - Which defender principle focuses on identifying the most critical systems to guide security efforts and focus?
+
 --> Risk Prioritization
 
 - Which defender principle focuses on identifying the most critical systems to guide security efforts and focus?
+
 --> THM{defensive_techniques!}
